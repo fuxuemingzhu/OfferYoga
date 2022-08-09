@@ -6,6 +6,8 @@
 
 仓库名叫做 OfferYoga 的原因——Offer 说明了仓库是帮助大家找工作的，而 Yoga（瑜伽）能让人身心放松，所以 **OfferYoga 的含义是让所有人都能身心愉悦地学习、找工作。**
 
+目前 OffeYoga 的网站已经上线，有很多靠谱优质公司在网站上发布了内推信息，包括校招、社招等，欢迎查看：[http://offer.yoga/](http://offer.yoga/)
+
 
 欢迎 Star！
 
